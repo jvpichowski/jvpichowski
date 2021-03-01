@@ -12,7 +12,7 @@ To put some more effort into this hobby I started a double degree in games engin
 After half a year of work, I proudly present our first game prototype [Back in Time](https://www.youtube.com/watch?v=irkcqxGfY24&list=PLthd3ST3SckSovN5qMWRHe4go_FHJtczU&index=12).
 
 Besides those activities, I like to attend competitions and hackathons.
-I spend some time in internships and working in research groups at my University and CLAAS Gmbh.
+I spend some time in internships and working in research groups at my university and CLAAS Gmbh.
 
 Just drop me a mail if you are interested in my projects or like to work together with me on new ideas.
 
