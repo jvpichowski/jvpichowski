@@ -11,7 +11,7 @@ If you are lucky you will probably catch me fiddling with my passion: computer g
 To put some more effort into this hobby I started a double degree in games engineering. 
 After half a year of work, I proudly present our first game prototype [Back in Time](https://www.youtube.com/watch?v=irkcqxGfY24&list=PLthd3ST3SckSovN5qMWRHe4go_FHJtczU&index=12).
 
-
+Just drop me a mail you are interested in my projects or like to work together with me on new ideas.
 
 
 <!--
