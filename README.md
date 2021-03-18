@@ -14,7 +14,7 @@ After half a year of work, I proudly present our first game prototype [Back in T
 Besides those activities, I like to attend competitions and hackathons.
 I spend some time in internships and working in research groups at my university and CLAAS Gmbh.
 
-Just drop me a mail if you are interested in my projects or like to work together with me on new ideas.
+Just drop me a mail if you are interested in [my projects](https://github.com/jvpichowski-projects) or like to work together with me on new ideas.
 
 
 <!--
