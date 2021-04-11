@@ -17,7 +17,7 @@ Now, I am working at [BII-GmbH](https://bii-gmbh.com/) besides my studies.
 
 Just drop me a mail if you are interested in [my projects](https://github.com/jvpichowski?tab=projects) or like to work together with me on new ideas.
 
-P.S. I like the [Inside Java Podcast](https://inside.java/podcast/). Please drop me a note, if you know a similiar one for cpp.
+P.S. I like the [Inside Java Podcast](https://inside.java/podcast/). Please drop me a note, if you know a similiar one for C++.
 <!--
 **jvpichowski/jvpichowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
