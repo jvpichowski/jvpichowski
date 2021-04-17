@@ -5,7 +5,7 @@ I'm Jan, a computer science master's student from Würzburg Germany.
 My sweet spot is embedded development with a focus on space-related control software and computer vision.
 During my studies, I got the opportunity to work on three [REXUS/BEXUS](http://rexusbexus.net/) projects.
 We built an [autonomous vision system](https://jvpichowski.github.io/quest-bexus) on a high-altitude balloon and a novel recovery system, called [Daedalus](https://wuespace.de/daedalus/), which is dropped from sounding rockets.
-This is an amazing journey and I like to present our open source ground station [Telestion](https://github.com/TelestionTeam) to you, which powers these projects.
+This is an amazing journey and I like to present our open source ground station [Telestion](https://telestion.wuespace.de/) to you, which powers these projects.
 
 If you are lucky you will probably catch me fiddling with my passion: computer game projects.
 To put some more effort into this hobby I started a double degree in games engineering. 
